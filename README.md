@@ -1,6 +1,6 @@
 # Edmundo Kinast
 
-¡Hola! Soy Edmundo Kinast, desarrollador especializado en JavaScript, TypeScript, NestJS y PostgreSQL.
+¡Hola! Soy Edmundo Kinast, desarrollador **_Fullstack_** especializado **_Back-end_** usando JavaScript, TypeScript, NestJS y PostgreSQL.
 
 ## Sobre mí
 
