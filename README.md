@@ -22,8 +22,8 @@ para aprender y crecer profesionalmente.
 
 - **Ingeniero Electrónico**: Universidad Tecnológica Nacional, 1983
 - **Capacitación en JavaScript y TypeScript**: HENRY, 2024
-- **Capacitación en NestJS y Docker**: HENRY, 2024
 - **Capacitación en PostgreSQL**: HENRY, 2024
+- **Capacitación en NestJS y Docker**: HENRY, 2024
 
 ## Contacto
 
