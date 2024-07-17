@@ -4,8 +4,7 @@
 
 ## Sobre mí
 
-Soy un apasionado por la tecnología y el desarrollo de software, con experiencia en el desarrollo de aplicaciones web utilizando tecnologías modernas. Siempre estoy en busca de nuevos desafíos y oportunidades
-para aprender y crecer profesionalmente.
+Soy un apasionado por la tecnología y el desarrollo de software, con experiencia en el desarrollo de aplicaciones web utilizando tecnologías modernas. Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.
 
 ## Habilidades Técnicas
 
